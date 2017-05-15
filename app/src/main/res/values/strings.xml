@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AsyntaskSample</string>
+    <string name="action_download">Download</string>
+    <string name="msg_downloading">Downloading...</string>
+</resources>
